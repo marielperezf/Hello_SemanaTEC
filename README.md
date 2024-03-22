@@ -1,4 +1,4 @@
-# CAMBIO VISUAL PARA GIT
+# CAMBIO VISUAL
 # - Hello_SemanaTEC
 # - Mariel Gisela Perez Ferrusquia :white_heart:
 # ITC
