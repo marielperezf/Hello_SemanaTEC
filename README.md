@@ -1,4 +1,4 @@
-# CAMBIO VISUAL
+#  CAMBIO PARA EL VIDEO
 # - Hello_SemanaTEC
 # - Mariel Gisela Perez Ferrusquia :white_heart:
 # ITC
